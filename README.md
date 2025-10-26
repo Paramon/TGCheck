@@ -1,4 +1,4 @@
-# 📚 FuckTG Documentation
+# 📚 TG Documentation
 
 > Подробная документация по внутренним механизмам Telegram Desktop
 
